@@ -11,7 +11,7 @@ const Navigation = () => {
             <ul className='nav-links'>
               <li>
                 <NavLink to='/case-studies' exact>
-                  Case Studies
+                  Products
                 </NavLink>
               </li>
               <li>
@@ -43,19 +43,19 @@ const Navigation = () => {
                 </li>
                 <li>
                   <NavLink to='/audit' exact>
-                    Get a free audit
+                    Get a free Visit
                   </NavLink>
                 </li>
               </ul>
               <ul className='nav-info'>
                 <li className='nav-info-label'>Headquarter</li>
-                <li>Route du Jura 49</li>
-                <li>1700 Fribourg</li>
-                <li>Switzerland</li>
+                <li>R-1,2,Lehtrar Road</li>
+                <li>Khanna Dak Islamabad</li>
+                <li>Pakistan</li>
               </ul>
               <ul className='nav-info'>
                 <li className='nav-info-label'>Phone</li>
-                <li>+41 (0) 79 510 28 70</li>
+                <li>+92 (3) 34 548 87 76</li>
               </ul>
               <ul className='nav-info'>
                 <li className='nav-info-label'>Legal</li>

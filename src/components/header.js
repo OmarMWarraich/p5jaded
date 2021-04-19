@@ -26,7 +26,7 @@ const Header = ({ history, dimensions }) => {
         <div className='row v-center space-between'>
           <div className='logo'>
             <NavLink to='/' exact>
-              AGENCY
+              JADED CO.
             </NavLink>
           </div>
           <div className='nav-toggle'>
